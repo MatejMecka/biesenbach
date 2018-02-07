@@ -1,2 +1,2 @@
-require('./dist/action');
+require('./lib/action');
 
